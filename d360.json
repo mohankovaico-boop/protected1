@@ -1,0 +1,32 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    { "code": "en", "default": true }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        { "langs": ["en"], "path": "software-design-documentation-sdd/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "software-design-documentation-sdd/software-design-documentation-1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "user-guide/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "user-guide/user-guide-1.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
